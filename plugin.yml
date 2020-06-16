@@ -1,0 +1,7 @@
+name: HexMeetup
+version: 1.0.0
+api: 3.0.0
+main: Hex\Main
+commands:
+ meetup:
+  description: "join on the meetup"
